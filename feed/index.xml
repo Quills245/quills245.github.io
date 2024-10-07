@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Oct 2024 16:05:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Oct 2024 17:57:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
+		<title>TST</title>
+		<link>/tst/</link>
+					<comments>/tst/#respond</comments>
+		
+		<dc:creator><![CDATA[Quiel]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 17:57:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=13</guid>
+
+					<description><![CDATA[So, is this visible?]]></description>
+										<content:encoded><![CDATA[
+<p>So, is this visible?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
