@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Quiel &#8211; 245 Swirling Quills</title>
-	<atom:link href="/author/quiel/feed/" rel="self" type="application/rss+xml" />
+	<title>Casual nothings &#8211; 245 Swirling Quills</title>
+	<atom:link href="/category/casual-nothings/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Maybe a bit of my mind?</description>
 	<lastBuildDate>Mon, 07 Oct 2024 20:05:10 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/10/Quills-150x150.png</url>
-	<title>Quiel &#8211; 245 Swirling Quills</title>
+	<title>Casual nothings &#8211; 245 Swirling Quills</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
