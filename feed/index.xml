@@ -8,54 +8,100 @@
 	>
 
 <channel>
-	<title>lilsite</title>
+	<title>245 Swirling Quills</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Mon, 07 Oct 2024 17:57:30 +0000</lastBuildDate>
+	<description>Maybe a bit of my mind?</description>
+	<lastBuildDate>Mon, 07 Oct 2024 19:15:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/10/Quills-150x150.png</url>
+	<title>245 Swirling Quills</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>TST</title>
-		<link>/tst/</link>
-					<comments>/tst/#respond</comments>
+		<title>My latest musical &#8220;obsession&#8221;</title>
+		<link>/my-latest-musical-obsession/</link>
 		
 		<dc:creator><![CDATA[Quiel]]></dc:creator>
-		<pubDate>Mon, 07 Oct 2024 17:57:29 +0000</pubDate>
+		<pubDate>Mon, 07 Oct 2024 18:59:05 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=13</guid>
+		<guid isPermaLink="false">/?p=27</guid>
 
-					<description><![CDATA[So, is this visible?]]></description>
+					<description><![CDATA[This will probably be a short one, and something that would probably go better on mastodon but this needs more content :P Since like, idk, 3 days? i&#8217;ve got suddenly super hooked on the album Destiny by MathematicPony, it was really out of nowhere, i had downloaded it to my jellyfin server cuz i&#8217;ve listened [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>So, is this visible?</p>
+<p>This will probably be a short one, and something that would probably go better on mastodon but this needs more content :P</p>
+
+
+
+<p>Since like, idk, 3 days? i&#8217;ve got suddenly super hooked on the album Destiny by <a href="#/library/album-artists/59b4e630f66b62348b1aa9cf6ca73bba">MathematicPony</a>, it was really out of nowhere, i had downloaded it to my jellyfin server cuz i&#8217;ve listened to two or three songs from it before and liked them, so they just sat in there, till i actually felt like giving the album a go and wow, almost the entire album got stuck in my head, another great addition to my mental list of great albuns, already listened to the whole thing multiple times and it&#8217;s still super good</p>
+
+
+
+<p>A beautifully musical Celly to match the theme!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://derpibooru.org/images/3398230"><img decoding="async" src="https://derpicdn.net/img/view/2024/7/8/3398230.jpg" alt=""/></a><figcaption class="wp-element-caption">Artist: <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-color">Magnaluna</mark></figcaption></figure>
+
+
+
+<p class="has-text-align-center"><sub><mark style="background-color:rgba(0, 0, 0, 0);color:#a4a4a4" class="has-inline-color">0</mark><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-3-color">7/10/2024</mark></sub><br><sub><mark style="background-color:rgba(0, 0, 0, 0);color:#a4a4a4" class="has-inline-color">(dd/MM/yyyy)</mark></sub></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tst/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Quiel]]></dc:creator>
 		<pubDate>Mon, 07 Oct 2024 16:05:47 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[My first post!? okay so first impressions are important right? even tho i don&#8217;t feel like writing much right now i want to have this be written at the same time i got this on this current state (that may or may not be the same your seeing this right now, cuz like, i&#8217;m writing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>My first post!? okay so first impressions are important right? even tho i don&#8217;t feel like writing much right now i want to have this be written at the same time i got this on this current state (that may or may not be the same your seeing this right now, cuz like, i&#8217;m writing this in the middle of just making this whole thing usable haha, but first things first, what should i mention&#8230; Oh right! I got the inspiration for trying this out after seeing <a href="https://equestria.social/@cushyhoof" data-type="link" data-id="https://equestria.social/@cushyhoof">@cushyhoof</a>&#8216;s site in this thread <a href="https://equestria.social/@cushyhoof/113263053374411319" data-type="link" data-id="https://equestria.social/@cushyhoof/113263053374411319">here</a> (much better site than mine i&#8217;d say, can&#8217;t compare something hoof made from zero and my simple wordpress template based one haha, so you should check it out :3)</p>
+
+
+
+<p>Anyway, yeah, this is more of a &#8220;Hi!&#8221; kind of post so i don&#8217;t really have much to say, guess i should explain some stuff tho<br>This is like, supposed to be kind of a brain dump were i can just post whatevers without really thinking much about it (or at least trying to haha) so please expect not the best writing, organization, design, update frequency and stuff like that here, cuz if i tried to go for that kind of thing i&#8217;d probably go insane. (oh my just noticed there&#8217;s no pony emojis on this, how will i express myself!?)</p>
+
+
+
+<p>But at least i hope this lasts for more than today haha, well, i think i&#8217;ll do another post to say one other thing i want to so yeah, dialing out here, see you next post! ^c^</p>
+
+
+
+<p>To finish this one, here, Puter honse!</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><a href="https://derpibooru.org/images/3145064"><img decoding="async" src="https://derpicdn.net/img/view/2023/6/16/3145064.jpg" alt="" style="width:620px;height:auto"/></a><figcaption class="wp-element-caption">Artist: <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-color">Cardigansandcats</mark></figcaption></figure>
+
+
+
+<p class="has-text-align-center"><sub><mark style="background-color:rgba(0, 0, 0, 0);color:#a4a4a4" class="has-inline-color">0</mark><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-contrast-3-color">7/10/2024</mark></sub><br><sub><mark style="background-color:rgba(0, 0, 0, 0);color:#a4a4a4" class="has-inline-color">(dd/MM/yyyy)</mark></sub></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
