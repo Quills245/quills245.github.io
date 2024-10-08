@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Updates! &#8211; 245 Swirling Quills</title>
+	<atom:link href="/category/en/updates/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Maybe a bit of my mind?</description>
+	<lastBuildDate>Tue, 08 Oct 2024 17:54:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/10/Quills-150x150.png</url>
+	<title>Updates! &#8211; 245 Swirling Quills</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Multilanguage Update!</title>
+		<link>/multilanguage-update/</link>
+		
+		<dc:creator><![CDATA[Quills]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 17:54:28 +0000</pubDate>
+				<category><![CDATA[Updates!]]></category>
+		<guid isPermaLink="false">/?p=95</guid>
+
+					<description><![CDATA[Soo, as you may have seen, a random Fanfic thing appeared, well that one is something I&#8217;ve created some time ago in private motivated by a school homework (dunno if i&#8217;ve mentioned it on mastodon or not but anyway) and thought &#8220;hey, why not post it here, ain&#8217;t this supposed to be a mind dump? [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Soo, as you may have seen, a random Fanfic thing appeared, well that one is something I&#8217;ve created some time ago in private motivated by a school homework (dunno if i&#8217;ve mentioned it on mastodon or not but anyway) and thought &#8220;hey, why not post it here, ain&#8217;t this supposed to be a mind dump? but it&#8217;s on Portuguese, and i did the whole site in English!&#8221; So i&#8217;ve went and created language categories, don&#8217;t feel like translating the whole site, and i&#8217;m not sure how i&#8217;d do that without making it ugly so general stuff will stay in English only for now, but i plan to post stuff in Portuguese when i feel like it too (even tho in that case there will be basically no one to read it haha, but then, not like this place is made with being read by many as an objective so it&#8217;s not really an issue) anyway, i digress. The important part is that now the website has the minimum structure to organize multiple languages so yay!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Casual nothings &#8211; 245 Swirling Quills</title>
-	<atom:link href="/category/casual-nothings/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/en/casual-nothings/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Maybe a bit of my mind?</description>
-	<lastBuildDate>Mon, 07 Oct 2024 22:08:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Oct 2024 17:55:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,35 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Birthday</title>
+		<link>/birthday/</link>
+		
+		<dc:creator><![CDATA[Quills]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 17:55:30 +0000</pubDate>
+				<category><![CDATA[Casual nothings]]></category>
+		<guid isPermaLink="false">/?p=113</guid>
+
+					<description><![CDATA[Oh yeah, almost forgot, today is my birthday!I&#8217;ve already wrote a lot so i&#8217;ll keep this short, Happy birthday for me i supposeSo from today now i guess i&#8217;m 18&#8230; No, don&#8217;t call me an adult, never said you could :&#60; Hmm, don&#8217;t wanna make this post seem unnecessarily sad, but i don&#8217;t know how [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Oh yeah, almost forgot, today is my birthday!<br>I&#8217;ve already wrote a lot so i&#8217;ll keep this short, Happy birthday for me i suppose<br>So from today now i guess i&#8217;m 18&#8230;<br><br>No, don&#8217;t call me an adult, never said you could :&lt;</p>
+
+
+
+<p>Hmm, don&#8217;t wanna make this post seem unnecessarily sad, but i don&#8217;t know how to, i mean, i never really wanted to grow up&#8230;<br>Okay i&#8217;m stopping, anyway, thanks for reading!<br>Remember that you&#8217;re awesome, but also that you should always respect and be kind to the other people, bye bye!</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="768" height="432" src="/wp-content/uploads/2024/10/Bye.jpg" alt="Quills waving goodbyes" class="wp-image-115" srcset="/wp-content/uploads/2024/10/Bye.jpg 768w, /wp-content/uploads/2024/10/Bye-300x169.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>My latest musical &#8220;obsession&#8221;</title>
 		<link>/my-latest-musical-obsession/</link>
 		
