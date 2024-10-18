@@ -1,3 +1,7 @@
 User-agent: *
 
 Disallow: /wp-content/
+
+User-agent: archive.org_bot ia_archiver
+
+Allow: /wp-content/
